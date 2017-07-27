@@ -1,3 +1,3 @@
-#Esquemático y dibujo del teclado matricial
-![alt tag](KeyBoardSketch.jpeg)
-![alt tag](Esquemático.jpeg)
+# Esquemático y dibujo del teclado matricial
+![alt tag](KeyBoardSketch.jpg)
+![alt tag](Esquemático.jpg)
